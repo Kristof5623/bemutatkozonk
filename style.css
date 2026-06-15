@@ -4,9 +4,24 @@ body {
     margin: 40px;
 }
 
-section {
-    background-color: white;
+#mySection {
+    background-color: rgb(255, 217, 217);
     padding: 20px;
     margin-bottom: 20px;
-    border-radius: 10px;
+    border-radius: 11px;
+    max-width: fit-content;
+}
+
+.backOfMyTexts{
+    background-color: rgba(64, 64, 64, 0.258);
+    max-width: fit-content;
+    padding: 5px;
+}
+
+#short{
+    max-width: 511px;
+}
+
+#nev{
+    margin: auto;
 }
