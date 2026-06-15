@@ -24,4 +24,10 @@ body {
 
 #nev{
     margin: auto;
+    border-radius: 10px;
+}
+
+#B {
+  color: rgb(59, 28, 196);
+  text-align: center;
 }
