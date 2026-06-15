@@ -5,11 +5,11 @@ body {
 }
 
 #B {
-    background-color: white;
+    background-color: rgb(255, 0, 0);
     padding: 20px;
     margin-bottom: 20px;
     border-radius: 10px;
-    color: rgb(71, 42, 200);
+    color: rgb(97, 31, 219);
     text-align: center;
 }
 
