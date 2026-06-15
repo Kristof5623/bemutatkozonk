@@ -34,3 +34,9 @@ body {
     color: rgb(59, 28, 196);
     text-align: center;
 }
+
+#főő{
+    background-color: blanchedalmond;
+    max-width: fit-content;
+    padding: 11px;
+}
