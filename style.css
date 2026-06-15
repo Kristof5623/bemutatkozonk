@@ -25,9 +25,7 @@ body {
 #nev{
     margin: auto;
     border-radius: 10px;
+    color: rgb(59, 28, 196);
+    text-align: center;
 }
 
-#B {
-  color: rgb(59, 28, 196);
-  text-align: center;
-}
