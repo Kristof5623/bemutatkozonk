@@ -25,3 +25,12 @@ body {
 #nev{
     margin: auto;
 }
+
+#B {
+    background-color: white;
+    padding: 20px;
+    margin-bottom: 20px;
+    border-radius: 10px;
+    color: rgb(59, 28, 196);
+    text-align: center;
+}
